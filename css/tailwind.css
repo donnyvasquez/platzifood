@@ -1,0 +1,10 @@
+@tailwind base;
+/* Hasta acá ba el BASE */
+
+/* Aca inicia el COMPONENT */
+@tailwind components;
+/* Hasta acá va el COMPONENT */
+
+/* Acá inicia el UTILITIES */
+@tailwind utilities;
+/* Hasta aca va el UTILITIES */
